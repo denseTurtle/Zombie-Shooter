@@ -969,3 +969,125 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2021.10.29-20.56.10:363][219]LogSavePackage: Moving '../../../../../../Users/nimap/OneDrive/Desktop/School/ZombieShooter/ZombieShooter/Saved/level1_Auto183435CEE4BCEADB5E7DDC59E3332857D.tmp' to '../../../../../../Users/nimap/OneDrive/Desktop/School/ZombieShooter/ZombieShooter/Saved/Autosaves/Game/FirstPersonBP/Maps/level1_Auto1.umap'
 [2021.10.29-20.56.10:365][219]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/level1' took 0.092
 [2021.10.29-20.56.10:365][219]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2021.10.29-21.00.32:659][229]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.29-21.00.32:670][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-21.00.32:670][229]PIE: New page: PIE session: level1 (Oct. 29, 2021, 4:00:32 p.m.)
+[2021.10.29-21.00.32:672][229]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.29-21.00.32:673][229]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.29-21.00.32:673][229]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_level1
+[2021.10.29-21.00.32:686][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013495s)
+[2021.10.29-21.00.32:688][229]LogAIModule: Creating AISystem for world level1
+[2021.10.29-21.00.32:688][229]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2021.10.29-21.00.32:688][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/level1.level1 to /Game/FirstPersonBP/Maps/UEDPIE_0_level1.level1 (0.014996s)
+[2021.10.29-21.00.32:695][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.29-21.00.32:696][229]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.29-21.00.32:696][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-21.00.32:696][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-21.00.32:696][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-21.00.32:696][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-21.00.32:696][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-21.00.32:696][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-21.00.32:696][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-21.00.32:696][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-21.00.32:697][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.29-21.00.32:697][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.29-21.00.32:697][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.29-21.00.32:697][229]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-21.00.32:701][229]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-21.00.32:701][229]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-21.00.32:714][229]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2021.10.29-21.00.32:715][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-21.00.32:715][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-21.00.32:715][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-21.00.32:715][229]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-21.00.32:715][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-21.00.32:715][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-21.00.32:716][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-21.00.32:716][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-21.00.32:716][229]LogInit: FAudioDevice initialized.
+[2021.10.29-21.00.32:716][229]LogAudio: Display: Audio Device (ID: 2) registered with world 'level1'.
+[2021.10.29-21.00.32:774][229]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.29-21.00.32:802][229]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2021.10.29-18.30.32
+[2021.10.29-21.00.32:829][229]LogWorld: Bringing up level for play took: 0.037662
+[2021.10.29-21.00.32:830][229]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.10.29-21.00.32:850][229]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2021.10.29-21.00.32:864][229]PIE: Server logged in
+[2021.10.29-21.00.32:866][229]PIE: Play in editor total start time 0.2 seconds.
+[2021.10.29-21.00.35:874][401]LogCharacterMovement: ZombieCharacter_2 is stuck and failed to move! Velocity: X=-295.09 Y=54.05 Z=0.00 Location: X=324.50 Y=-161.56 Z=258.27 Normal: X=1.00 Y=-0.02 Z=-0.06 PenetrationDepth:5.890 Actor:FirstPersonProjectile_C_2 Component:Sphere BoneName:None (0 other events since notify)
+[2021.10.29-21.00.44:873][941]LogCharacterMovement: ZombieCharacter5_11 is stuck and failed to move! Velocity: X=-25.51 Y=-256.78 Z=0.00 Location: X=26.47 Y=-558.09 Z=259.59 Normal: X=0.15 Y=0.98 Z=-0.12 PenetrationDepth:3.426 Actor:FirstPersonProjectile_C_10 Component:Sphere BoneName:None (0 other events since notify)
+[2021.10.29-21.00.45:090][954]LogCharacterMovement: ZombieCharacter4_8 is stuck and failed to move! Velocity: X=-31.08 Y=-298.39 Z=0.00 Location: X=21.52 Y=-547.80 Z=258.81 Normal: X=-0.61 Y=0.57 Z=-0.55 PenetrationDepth:40.695 Actor:FirstPersonProjectile_C_11 Component:Sphere BoneName:None (0 other events since notify)
+[2021.10.29-21.01.15:307][767]Set new viewmode: Wireframe
+[2021.10.29-21.01.16:407][833]Set new viewmode: Wireframe
+[2021.10.29-21.01.18:290][946]Set new viewmode: Wireframe
+[2021.10.29-21.01.20:106][ 55]Set new viewmode: Unlit
+[2021.10.29-21.01.22:140][177]Set new viewmode: Lit
+[2021.10.29-21.01.24:040][291]Set new viewmode: Lit_DetailLighting
+[2021.10.29-21.01.25:040][351]Set new viewmode: ShaderComplexity
+[2021.10.29-21.01.25:045][352]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.29-21.01.26:016][405]Set new viewmode: Lit
+[2021.10.29-21.01.29:527][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-21.01.29:527][613]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_level1
+[2021.10.29-21.01.29:527][613]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-21.01.29:528][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-21.01.29:538][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-21.01.29:539][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-21.01.29:544][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-21.01.29:544][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-21.01.29:545][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-21.01.29:549][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.29-21.01.29:671][615]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.10.29-21.02.15:271][397]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.29-21.02.15:290][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-21.02.15:290][397]PIE: New page: PIE session: level1 (Oct. 29, 2021, 4:02:15 p.m.)
+[2021.10.29-21.02.15:290][397]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_level1
+[2021.10.29-21.02.15:327][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036861s)
+[2021.10.29-21.02.15:329][397]LogAIModule: Creating AISystem for world level1
+[2021.10.29-21.02.15:329][397]LogPlayLevel: PIE: World Init took: (0.001929s)
+[2021.10.29-21.02.15:329][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/level1.level1 to /Game/FirstPersonBP/Maps/UEDPIE_0_level1.level1 (0.039079s)
+[2021.10.29-21.02.15:342][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.10.29-21.02.15:343][397]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.29-21.02.15:343][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-21.02.15:343][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-21.02.15:343][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-21.02.15:343][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-21.02.15:343][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-21.02.15:343][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-21.02.15:343][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-21.02.15:343][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-21.02.15:344][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.29-21.02.15:344][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.29-21.02.15:344][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.29-21.02.15:344][397]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-21.02.15:352][397]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-21.02.15:352][397]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-21.02.15:368][397]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2021.10.29-21.02.15:368][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-21.02.15:368][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-21.02.15:368][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-21.02.15:369][397]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-21.02.15:369][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-21.02.15:369][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-21.02.15:370][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-21.02.15:370][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-21.02.15:370][397]LogInit: FAudioDevice initialized.
+[2021.10.29-21.02.15:370][397]LogAudio: Display: Audio Device (ID: 3) registered with world 'level1'.
+[2021.10.29-21.02.15:384][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.29-21.02.15:388][397]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2021.10.29-18.32.15
+[2021.10.29-21.02.15:389][397]LogWorld: Bringing up level for play took: 0.004274
+[2021.10.29-21.02.15:390][397]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.10.29-21.02.15:392][397]PIE: Server logged in
+[2021.10.29-21.02.15:393][397]PIE: Play in editor total start time 0.106 seconds.
+[2021.10.29-21.02.35:462][793]LogCharacterMovement: ZombieCharacter4_8 is stuck and failed to move! Velocity: X=-10.92 Y=299.80 Z=0.00 Location: X=-324.18 Y=624.19 Z=260.39 Normal: X=0.18 Y=-0.98 Z=0.00 PenetrationDepth:10.930 Actor:FirstPersonProjectile_C_4 Component:Sphere BoneName:None (0 other events since notify)
+[2021.10.29-21.02.36:587][928]LogCharacterMovement: ZombieCharacter4_8 is stuck and failed to move! Velocity: X=-13.59 Y=299.69 Z=0.00 Location: X=-326.78 Y=980.07 Z=258.28 Normal: X=-0.15 Y=-0.95 Z=-0.28 PenetrationDepth:1.230 Actor:FirstPersonProjectile_C_5 Component:Sphere BoneName:None (1 other events since notify)
+[2021.10.29-21.02.44:032][821]LogCharacterMovement: ZombieCharacter5_11 is stuck and failed to move! Velocity: X=-269.71 Y=-93.77 Z=0.00 Location: X=-509.36 Y=1330.40 Z=260.34 Normal: X=0.76 Y=-0.65 Z=0.00 PenetrationDepth:13.884 Actor:FirstPersonProjectile_C_15 Component:Sphere BoneName:None (0 other events since notify)
+[2021.10.29-21.02.46:777][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-21.02.46:777][147]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_level1
+[2021.10.29-21.02.46:777][147]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-21.02.46:778][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-21.02.46:784][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-21.02.46:786][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-21.02.46:791][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-21.02.46:791][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-21.02.46:792][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-21.02.46:800][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.10.29-21.02.46:865][148]LogPlayLevel: Display: Destroying online subsystem :Context_2
